@@ -1,0 +1,13 @@
+total_images: 3000
+train_images: 1803
+val_images: 600
+test_images: 597
+train_patients: 260
+val_patients: 224
+test_patients: 230
+train_class_dist: {0: 438, 1: 392, 2: 912, 3: 61}
+val_class_dist: {0: 151, 1: 180, 2: 233, 3: 36}
+test_class_dist: {0: 140, 1: 176, 2: 249, 3: 32}
+train_oca_patients: 13
+val_oca_patients: 22
+test_oca_patients: 26
